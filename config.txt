@@ -1,0 +1,6 @@
+{
+  "Max_Games": 5,
+  "Max_Games_Per_Player": 1,
+  "Max_Connections": 5,
+  "Game_Command": ".\\a"
+}
